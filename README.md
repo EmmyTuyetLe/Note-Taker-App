@@ -1,2 +1,3 @@
-# Note-Taker-App
-An app for taking notes online.
+**Instruction**
+
+Complete the functions that will make the notes App to work complete.

@@ -1,3 +1,3 @@
 **Instruction**
 
-notes App should work now
+notes app should work now
